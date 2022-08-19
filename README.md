@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @dizzydevv.
+- 👀 I’m interested in Luau.
+- 🌱 I’m currently learning Luau and Lua.
